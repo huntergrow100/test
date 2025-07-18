@@ -1,1 +1,6 @@
-123
+{
+  "licenses": {
+    "123": "13870909676784",
+    "LICENSEKEY456": "hwid_hash_def456"
+  }
+}
